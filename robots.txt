@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nightowl.youssefghobrial.eu.cc/sitemap.xml
+Sitemap: https://darkmode.youssefghobrial.eu.cc//sitemap.xml
